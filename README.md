@@ -5,6 +5,9 @@
 3. The RapidAPI is used to fetch all videos from all the categories mentioned in the website.
 
 
+This site is live [here: (https://super-tv-up.onrender.com)]
+
+
 ![Capture](https://github.com/DheerajPathrod/updated_super_tv/assets/86339497/837407d7-08b1-4992-8b7b-b512e1490958)
 
 
