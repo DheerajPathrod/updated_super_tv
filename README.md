@@ -5,11 +5,12 @@
 3. The RapidAPI is used to fetch all videos from all the categories mentioned in the website.
 
 
-
-![Screenshot (1561)](https://github.com/DheerajPathrod/Video-StreamingPlatform/assets/86339497/0359a880-5b17-4022-bc11-11cbbc8ec38a)
-
-
-![Screenshot (1562)](https://github.com/DheerajPathrod/Video-StreamingPlatform/assets/86339497/99e66c03-6f1f-4f81-9a6c-24ccd4f7a5aa)
+![Capture](https://github.com/DheerajPathrod/updated_super_tv/assets/86339497/837407d7-08b1-4992-8b7b-b512e1490958)
 
 
-![Screenshot (1563)](https://github.com/DheerajPathrod/Video-StreamingPlatform/assets/86339497/6e12da0b-7f47-4610-9cda-75c38c3899f9)
+![2](https://github.com/DheerajPathrod/updated_super_tv/assets/86339497/6e8cf1a8-06e8-4226-b5fd-d7a8c95349d6)
+
+
+![3](https://github.com/DheerajPathrod/updated_super_tv/assets/86339497/0ac91d65-6a18-4c9c-a0bc-745151c8fe73)
+
+
